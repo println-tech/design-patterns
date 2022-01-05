@@ -1,0 +1,17 @@
+plugins {
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+dependencies {
+}
+
+
+//ext.mainClazz = project.hasProperty("args") ? project.getProperty("args") : 'tech.println.behavioral.command.Main'
+
+application {
+    mainClass = 'tech.println.behavioral.command.Main'
+//    mainClass = mainClazz
+}
