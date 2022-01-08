@@ -2,9 +2,9 @@ package tech.println.behavioral.command;
 
 public class BurgerCafeCommand implements OrderCommand{
 
-    private BurgerMakerI burgerMaker;
+    private IBurgerMaker burgerMaker;
 
-    public BurgerCafeCommand(BurgerMakerI burgerMaker){
+    public BurgerCafeCommand(IBurgerMaker burgerMaker){
         this.burgerMaker = burgerMaker;
     }
 

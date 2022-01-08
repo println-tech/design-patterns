@@ -1,6 +1,6 @@
 package tech.println.behavioral.command;
 
-public class BurgerMaker implements BurgerMakerI{
+public class BurgerMaker implements IBurgerMaker {
 
     @Override
     public void makeBurger() {

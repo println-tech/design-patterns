@@ -1,6 +1,6 @@
 package tech.println.behavioral.command;
 
-public interface BurgerMakerI {
+public interface IBurgerMaker {
 
     void makeBurger();
 }
