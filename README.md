@@ -18,6 +18,7 @@ examples implemented in Java language.</p>
   * [Strategy](src/main/java/tech/println/behavioral/strategy/README.md)
   * [Visitor](src/main/java/tech/println/behavioral/visitor/README.md)
 * Structural
+  * [Special case](src/main/java/tech/println/structural/case_special/README.md)
 
 ---
 <font size="2">Follow me: </font> [<img src="assets/images/instagram.png" width="24">](https://instagram.com/software.pattern)
