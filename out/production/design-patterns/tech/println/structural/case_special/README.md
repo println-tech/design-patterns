@@ -1,3 +1,3 @@
-# Abstract Factory
+# Special case
 
-<img src="../../../../../../../../assets/images/abstract-factory.png" align="middle">
+<img src="../../../../../../../assets/images/special_case_uml.png" align="middle">

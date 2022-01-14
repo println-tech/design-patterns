@@ -7,7 +7,8 @@
 <font size="5">What is it?</font>
 
 <p>This repository is dedicated to system design patterns with an easy-to-understand 
-examples implemented in Java language.</p>
+examples implemented in Java language. You can find such patterns as GoF, TDD patterns, 
+patterns for refactoring code and so on.</p>
 <p>The project is implemented as a set of packages categorized by purpose:</p>
 
 * Creational
@@ -19,6 +20,7 @@ examples implemented in Java language.</p>
   * [Visitor](src/main/java/tech/println/behavioral/visitor/README.md)
 * Structural
   * [Special case](src/main/java/tech/println/structural/case_special/README.md)
+  * [Adapter](src/main/java/tech/println/structural/adapter/README.md)
 
 ---
 <font size="2">Follow me: </font> [<img src="assets/images/instagram.png" width="24">](https://instagram.com/software.pattern)
