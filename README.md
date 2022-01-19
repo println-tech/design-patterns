@@ -18,6 +18,7 @@ patterns for refactoring code and so on.</p>
   * [Command](src/main/java/tech/println/behavioral/command/README.md)
   * [Strategy](src/main/java/tech/println/behavioral/strategy/README.md)
   * [Visitor](src/main/java/tech/println/behavioral/visitor/README.md)
+  * [Template method](src/main/java/tech/println/behavioral/template/method/README.md)
 * Structural
   * [Special case](src/main/java/tech/println/structural/case_special/README.md)
   * [Adapter](src/main/java/tech/println/structural/adapter/README.md)
