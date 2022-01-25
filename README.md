@@ -22,7 +22,8 @@ patterns for refactoring code and so on.</p>
 * Structural
   * [Special case](src/main/java/tech/println/structural/case_special/README.md)
   * [Adapter](src/main/java/tech/println/structural/adapter/README.md)
-
+* DDD
+  * [Value object](src/main/java/tech/println/ddd/value/object/README.md)
 ---
 <font size="2">Follow me: </font> [<img src="assets/images/instagram.png" width="24">](https://instagram.com/software.pattern)
 
