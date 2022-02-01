@@ -7,7 +7,7 @@
 <font size="5">What is it?</font>
 
 <p>This repository is dedicated to system design patterns with an easy-to-understand 
-examples implemented in Java language. You can find such patterns as GoF, TDD patterns, 
+examples implemented in Java language. You can find such patterns as GoF, TDD and DDD patterns, 
 patterns for refactoring code and so on.</p>
 <p>The project is implemented as a set of packages categorized by purpose:</p>
 
@@ -24,6 +24,9 @@ patterns for refactoring code and so on.</p>
   * [Adapter](src/main/java/tech/println/structural/adapter/README.md)
 * DDD
   * [Value object](src/main/java/tech/println/ddd/value/object/README.md)
+* TDD
+  * [Imposter](src/main/java/tech/println/tdd/imposter/README.md)
+
 ---
 <font size="2">Follow me: </font> [<img src="assets/images/instagram.png" width="24">](https://instagram.com/software.pattern)
 
