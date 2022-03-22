@@ -25,6 +25,7 @@ patterns for refactoring code and so on.</p>
   * [Special case](src/main/java/tech/println/structural/case_special/README.md)
   * [Adapter](src/main/java/tech/println/structural/adapter/README.md)
   * [Composite](src/main/java/tech/println/structural/composite/README.md)
+  * [Decorator](src/main/java/tech/println/structural/decorator/README.md)
 * DDD
   * [Value object](src/main/java/tech/println/ddd/value/object/README.md)
 * TDD
