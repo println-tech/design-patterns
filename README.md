@@ -15,6 +15,7 @@ patterns for refactoring code and so on.</p>
   * [Abstract Factory](src/main/java/tech/println/creational/abstract/factory/README.md) 
   * [Singleton](src/main/java/tech/println/creational/singleton/README.md)
   * [Prototype](src/main/java/tech/println/creational/prototype/README.md)
+  * [Builder](src/main/java/tech/println/creational/builder/README.md)
 * Behavioral
   * [Command](src/main/java/tech/println/behavioral/command/README.md)
   * [Strategy](src/main/java/tech/println/behavioral/strategy/README.md)
